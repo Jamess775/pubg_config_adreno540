@@ -1,0 +1,1 @@
+# pubg_config_adreno540
